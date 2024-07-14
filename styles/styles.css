@@ -117,6 +117,34 @@ main > section {
 #quick-list {
   font-weight: 500;
 }
+/* Features Styles*/
+.features {
+  gap: 8.75rem;
+}
+#features-section-title {
+  border-left: #ff900e 5px solid;
+  padding: 1.5rem;
+}
+.feature-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #131313;
+  margin-top: 0;
+  margin-bottom: 0.625rem;
+}
+.feature-card {
+  padding: 1.875rem;
+  box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+  margin-bottom: 1.25rem;
+  border-radius: 0.5rem;
+}
+.feature-description {
+  font-size: 1rem;
+  line-height: 1.625rem;
+}
+
+#experience-badge {
+}
 /* Fact Styles*/
 .some-facts {
   margin-bottom: 8.125rem;
